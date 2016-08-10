@@ -1,0 +1,2 @@
+cd e:/git/project1
+git init
